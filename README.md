@@ -1,0 +1,3 @@
+- 👋 Hola soy Emilio Sarchetti
+- Estoy interesado en la programación
+- Y actualmente estoy estudiando programacion full stack 
